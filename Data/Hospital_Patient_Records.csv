@@ -1,0 +1,501 @@
+PatientID,AdmissionDate,Department,DoctorName,Age,Gender,Diagnosis,TreatmentCost,InsuranceCovered,DischargeStatus
+1001,21-03-2024,Dermatology,Dr. Brown,82,M,Migraine,3953,Yes,Under Treatment
+1002,14-01-2024,Dermatology,Dr. Kim,24,F,Flu,7125,No,Recovered
+1003,08-03-2024,Dermatology,Dr. Lee,48,M,Migraine,8004,Yes,Recovered
+1004,04-04-2024,Pediatrics,Dr. Brown,8,M,Migraine,2128,No,Recovered
+1005,27-03-2024,Dermatology,Dr. Kim,14,F,Flu,3071,No,Under Treatment
+1006,31-01-2024,General Medicine,Dr. Lee,22,F,Fever,6067,Yes,Recovered
+1007,07-01-2024,Dermatology,Dr. Patel,39,M,Flu,7853,No,Under Treatment
+1008,10-05-2024,Orthopedics,Dr. Roberts,58,F,Fever,3728,No,Under Treatment
+1009,20-05-2024,Cardiology,Dr. Roberts,47,F,Migraine,1629,Yes,Under Treatment
+1010,21-01-2024,General Medicine,Dr. Roberts,18,M,Hypertension,5692,Yes,Under Treatment
+1011,29-01-2024,Pediatrics,Dr. Kim,59,F,Fever,8602,Yes,Recovered
+1012,23-06-2024,Cardiology,Dr. Lee,65,F,Skin Infection,8698,Yes,Recovered
+1013,02-06-2024,Dermatology,Dr. Brown,40,F,Migraine,3331,Yes,Under Treatment
+1014,23-05-2024,Dermatology,Dr. Kim,43,M,Skin Infection,4255,No,Recovered
+1015,13-06-2024,General Medicine,Dr. Lee,86,M,Flu,7477,Yes,Under Treatment
+1016,22-04-2024,Dermatology,Dr. Roberts,63,F,Flu,1142,Yes,Under Treatment
+1017,02-01-2024,General Medicine,Dr. Smith,20,F,Migraine,7348,No,Recovered
+1018,12-03-2024,General Medicine,Dr. Smith,75,F,Hypertension,1694,No,Under Treatment
+1019,19-01-2024,Orthopedics,Dr. Kim,74,F,Skin Infection,1571,No,Under Treatment
+1020,06-01-2024,Orthopedics,Dr. Kim,10,M,Flu,1710,Yes,Under Treatment
+1021,04-01-2024,General Medicine,Dr. Lee,64,M,Fracture,3004,Yes,Recovered
+1022,31-01-2024,Orthopedics,Dr. Patel,54,M,Flu,2991,Yes,Recovered
+1023,17-05-2024,General Medicine,Dr. Kim,78,M,Hypertension,9910,Yes,Recovered
+1024,22-04-2024,Orthopedics,Dr. Smith,43,M,Skin Infection,6502,No,Under Treatment
+1025,12-01-2024,Pediatrics,Dr. Roberts,51,F,Migraine,1597,No,Recovered
+1026,06-02-2024,Pediatrics,Dr. Brown,33,F,Migraine,4534,Yes,Recovered
+1027,15-02-2024,Neurology,Dr. Brown,47,F,Fracture,8248,Yes,Under Treatment
+1028,23-04-2024,Neurology,Dr. Kim,15,F,Fracture,7692,No,Under Treatment
+1029,20-01-2024,Orthopedics,Dr. Smith,36,M,Hypertension,3854,Yes,Under Treatment
+1030,12-02-2024,Pediatrics,Dr. Smith,44,M,Fracture,8921,Yes,Under Treatment
+1031,05-05-2024,Dermatology,Dr. Patel,20,F,Skin Infection,2538,No,Under Treatment
+1032,05-01-2024,General Medicine,Dr. Brown,66,M,Skin Infection,8259,Yes,Recovered
+1033,28-04-2024,Neurology,Dr. Brown,46,F,Hypertension,4227,Yes,Under Treatment
+1034,12-06-2024,Dermatology,Dr. Smith,3,F,Hypertension,4072,No,Recovered
+1035,08-02-2024,General Medicine,Dr. Kim,41,F,Hypertension,1196,Yes,Under Treatment
+1036,27-03-2024,Pediatrics,Dr. Roberts,47,F,Fever,5519,Yes,Under Treatment
+1037,30-03-2024,General Medicine,Dr. Roberts,65,F,Fever,4849,No,Recovered
+1038,26-03-2024,Cardiology,Dr. Lee,50,F,Flu,2606,No,Recovered
+1039,15-05-2024,Orthopedics,Dr. Smith,36,M,Fracture,6686,Yes,Recovered
+1040,01-06-2024,Cardiology,Dr. Smith,11,M,Flu,4440,No,Under Treatment
+1041,24-04-2024,Orthopedics,Dr. Lee,48,M,Fever,8436,No,Recovered
+1042,13-05-2024,Pediatrics,Dr. Brown,53,M,Fever,4001,No,Under Treatment
+1043,10-05-2024,Dermatology,Dr. Lee,32,F,Fever,4552,Yes,Under Treatment
+1044,21-03-2024,Dermatology,Dr. Lee,80,M,Fracture,4573,Yes,Recovered
+1045,13-03-2024,Orthopedics,Dr. Roberts,48,M,Hypertension,4545,No,Under Treatment
+1046,26-02-2024,Neurology,Dr. Patel,48,F,Flu,1292,Yes,Recovered
+1047,29-02-2024,General Medicine,Dr. Lee,82,M,Hypertension,7484,Yes,Recovered
+1048,14-03-2024,Neurology,Dr. Patel,77,M,Skin Infection,4557,No,Under Treatment
+1049,30-04-2024,Neurology,Dr. Patel,81,F,Migraine,7283,Yes,Recovered
+1050,02-03-2024,General Medicine,Dr. Kim,77,F,Skin Infection,7649,Yes,Under Treatment
+1051,18-06-2024,Neurology,Dr. Patel,82,M,Fracture,2842,Yes,Recovered
+1052,06-03-2024,Pediatrics,Dr. Brown,80,M,Skin Infection,8567,Yes,Under Treatment
+1053,14-01-2024,Dermatology,Dr. Smith,11,F,Flu,9485,No,Recovered
+1054,11-06-2024,Orthopedics,Dr. Patel,82,F,Fever,5996,Yes,Under Treatment
+1055,24-04-2024,Cardiology,Dr. Patel,50,F,Hypertension,1767,No,Under Treatment
+1056,01-01-2024,Neurology,Dr. Brown,5,M,Migraine,9757,Yes,Recovered
+1057,27-06-2024,Cardiology,Dr. Patel,18,F,Fracture,7992,Yes,Under Treatment
+1058,17-04-2024,Dermatology,Dr. Lee,33,F,Fracture,8711,Yes,Under Treatment
+1059,28-05-2024,Dermatology,Dr. Kim,30,M,Fracture,9376,No,Under Treatment
+1060,12-03-2024,Orthopedics,Dr. Lee,84,F,Fracture,9431,No,Recovered
+1061,16-01-2024,Pediatrics,Dr. Smith,78,M,Fever,8185,No,Recovered
+1062,08-03-2024,Cardiology,Dr. Lee,19,M,Fracture,6679,No,Under Treatment
+1063,31-05-2024,General Medicine,Dr. Roberts,37,M,Skin Infection,6328,No,Under Treatment
+1064,27-03-2024,Orthopedics,Dr. Lee,21,M,Hypertension,7415,No,Recovered
+1065,30-03-2024,Pediatrics,Dr. Patel,59,M,Fever,7913,No,Under Treatment
+1066,22-02-2024,Dermatology,Dr. Smith,20,M,Skin Infection,5788,No,Recovered
+1067,12-04-2024,Dermatology,Dr. Patel,58,M,Skin Infection,9810,Yes,Under Treatment
+1068,15-05-2024,Orthopedics,Dr. Lee,37,F,Fever,6800,Yes,Under Treatment
+1069,19-02-2024,General Medicine,Dr. Brown,68,F,Hypertension,2760,No,Recovered
+1070,03-02-2024,Cardiology,Dr. Patel,37,M,Fever,4175,No,Under Treatment
+1071,08-06-2024,Orthopedics,Dr. Kim,67,F,Hypertension,2147,Yes,Recovered
+1072,24-06-2024,Cardiology,Dr. Lee,38,M,Migraine,2430,Yes,Under Treatment
+1073,13-01-2024,Dermatology,Dr. Brown,34,F,Fever,2074,Yes,Under Treatment
+1074,15-03-2024,Orthopedics,Dr. Kim,81,M,Migraine,8075,No,Recovered
+1075,11-06-2024,Neurology,Dr. Roberts,70,M,Hypertension,3821,No,Under Treatment
+1076,08-03-2024,Pediatrics,Dr. Patel,83,M,Skin Infection,7236,No,Under Treatment
+1077,03-04-2024,General Medicine,Dr. Kim,65,M,Skin Infection,9281,Yes,Under Treatment
+1078,02-01-2024,Orthopedics,Dr. Roberts,80,F,Fracture,9147,Yes,Recovered
+1079,15-03-2024,Orthopedics,Dr. Smith,52,M,Flu,1966,No,Recovered
+1080,29-02-2024,General Medicine,Dr. Lee,66,F,Fever,9447,No,Recovered
+1081,17-01-2024,Neurology,Dr. Roberts,11,M,Fever,5543,No,Under Treatment
+1082,23-04-2024,Neurology,Dr. Smith,23,M,Migraine,3683,No,Recovered
+1083,25-04-2024,General Medicine,Dr. Smith,27,F,Hypertension,4801,No,Under Treatment
+1084,28-03-2024,General Medicine,Dr. Smith,77,F,Hypertension,2519,No,Under Treatment
+1085,14-01-2024,Pediatrics,Dr. Smith,66,F,Fever,5088,Yes,Recovered
+1086,28-03-2024,Neurology,Dr. Roberts,50,F,Hypertension,5743,Yes,Under Treatment
+1087,18-06-2024,Orthopedics,Dr. Smith,40,M,Flu,1017,Yes,Under Treatment
+1088,09-06-2024,Pediatrics,Dr. Roberts,51,M,Fracture,8544,No,Recovered
+1089,02-01-2024,Neurology,Dr. Lee,26,F,Skin Infection,3418,Yes,Under Treatment
+1090,06-04-2024,Neurology,Dr. Brown,32,M,Flu,8519,Yes,Under Treatment
+1091,25-04-2024,Dermatology,Dr. Smith,16,M,Hypertension,4091,No,Under Treatment
+1092,08-03-2024,Dermatology,Dr. Brown,47,F,Fracture,6917,No,Under Treatment
+1093,21-04-2024,Pediatrics,Dr. Brown,31,F,Skin Infection,2245,No,Under Treatment
+1094,14-05-2024,Dermatology,Dr. Brown,33,M,Fever,8687,Yes,Recovered
+1095,31-03-2024,Cardiology,Dr. Brown,41,F,Fever,4412,No,Recovered
+1096,03-03-2024,Pediatrics,Dr. Brown,10,F,Migraine,1924,Yes,Under Treatment
+1097,03-04-2024,Dermatology,Dr. Patel,24,F,Fever,2558,No,Under Treatment
+1098,12-01-2024,Dermatology,Dr. Brown,23,M,Fracture,3243,No,Under Treatment
+1099,31-01-2024,Orthopedics,Dr. Lee,40,M,Flu,9417,No,Recovered
+1100,08-05-2024,Pediatrics,Dr. Lee,61,F,Flu,2697,Yes,Under Treatment
+1101,30-04-2024,Cardiology,Dr. Roberts,49,F,Fracture,4392,No,Under Treatment
+1102,24-05-2024,Pediatrics,Dr. Lee,55,M,Hypertension,6509,Yes,Recovered
+1103,29-04-2024,General Medicine,Dr. Kim,23,M,Fracture,7188,Yes,Recovered
+1104,12-03-2024,Orthopedics,Dr. Smith,74,M,Hypertension,2266,Yes,Under Treatment
+1105,29-04-2024,Pediatrics,Dr. Lee,73,M,Flu,2651,No,Under Treatment
+1106,31-03-2024,Pediatrics,Dr. Kim,49,F,Migraine,7404,Yes,Under Treatment
+1107,29-03-2024,Neurology,Dr. Patel,82,M,Fracture,6864,No,Under Treatment
+1108,08-01-2024,Dermatology,Dr. Smith,79,F,Fracture,7647,No,Recovered
+1109,21-02-2024,Pediatrics,Dr. Smith,10,M,Migraine,6302,Yes,Under Treatment
+1110,03-04-2024,Pediatrics,Dr. Kim,22,M,Fracture,2601,No,Under Treatment
+1111,10-06-2024,Neurology,Dr. Smith,70,F,Flu,8182,Yes,Under Treatment
+1112,16-05-2024,Orthopedics,Dr. Roberts,43,M,Migraine,3094,Yes,Under Treatment
+1113,31-01-2024,Pediatrics,Dr. Brown,59,M,Fever,4367,No,Recovered
+1114,10-01-2024,Pediatrics,Dr. Smith,58,M,Flu,6735,No,Recovered
+1115,17-06-2024,Neurology,Dr. Patel,69,M,Skin Infection,4660,Yes,Under Treatment
+1116,11-03-2024,General Medicine,Dr. Kim,78,F,Flu,4759,No,Under Treatment
+1117,12-01-2024,Neurology,Dr. Smith,85,F,Hypertension,3425,No,Recovered
+1118,10-04-2024,Dermatology,Dr. Lee,57,M,Skin Infection,8605,Yes,Under Treatment
+1119,21-03-2024,Neurology,Dr. Lee,22,M,Skin Infection,4400,No,Under Treatment
+1120,01-04-2024,Cardiology,Dr. Patel,21,M,Fever,8079,Yes,Under Treatment
+1121,21-02-2024,Dermatology,Dr. Roberts,68,M,Hypertension,3882,Yes,Under Treatment
+1122,05-03-2024,Neurology,Dr. Roberts,48,F,Skin Infection,7227,No,Recovered
+1123,30-03-2024,Dermatology,Dr. Smith,59,F,Skin Infection,5107,No,Recovered
+1124,10-01-2024,Dermatology,Dr. Lee,45,F,Hypertension,9055,Yes,Under Treatment
+1125,26-02-2024,Dermatology,Dr. Lee,60,M,Migraine,8378,No,Recovered
+1126,08-04-2024,Pediatrics,Dr. Lee,87,F,Fever,9770,No,Recovered
+1127,17-01-2024,Dermatology,Dr. Kim,66,F,Migraine,2450,No,Recovered
+1128,31-03-2024,Orthopedics,Dr. Brown,79,F,Hypertension,6907,No,Recovered
+1129,17-03-2024,Orthopedics,Dr. Lee,50,M,Fracture,4158,No,Under Treatment
+1130,17-04-2024,General Medicine,Dr. Patel,65,M,Fracture,9465,Yes,Recovered
+1131,29-02-2024,Dermatology,Dr. Lee,47,F,Skin Infection,2983,Yes,Under Treatment
+1132,21-05-2024,General Medicine,Dr. Roberts,6,F,Skin Infection,6499,No,Recovered
+1133,12-04-2024,Cardiology,Dr. Smith,39,M,Skin Infection,7660,No,Under Treatment
+1134,31-03-2024,Dermatology,Dr. Smith,39,M,Migraine,8103,Yes,Recovered
+1135,20-06-2024,Neurology,Dr. Kim,73,M,Flu,7071,Yes,Under Treatment
+1136,21-03-2024,Dermatology,Dr. Lee,13,F,Migraine,3982,Yes,Under Treatment
+1137,23-01-2024,General Medicine,Dr. Brown,53,M,Flu,9734,Yes,Under Treatment
+1138,15-04-2024,Cardiology,Dr. Roberts,10,F,Migraine,8827,No,Under Treatment
+1139,07-02-2024,Neurology,Dr. Smith,70,M,Skin Infection,1211,Yes,Under Treatment
+1140,23-05-2024,Dermatology,Dr. Patel,45,F,Skin Infection,9416,Yes,Recovered
+1141,26-05-2024,Cardiology,Dr. Brown,7,F,Skin Infection,2133,No,Recovered
+1142,13-05-2024,Cardiology,Dr. Patel,90,M,Hypertension,7795,Yes,Recovered
+1143,07-04-2024,General Medicine,Dr. Roberts,30,F,Hypertension,9026,Yes,Under Treatment
+1144,19-02-2024,Neurology,Dr. Brown,54,F,Skin Infection,3575,No,Under Treatment
+1145,23-06-2024,Neurology,Dr. Brown,16,M,Hypertension,3191,Yes,Under Treatment
+1146,16-03-2024,Neurology,Dr. Kim,78,F,Skin Infection,5508,Yes,Under Treatment
+1147,29-02-2024,Neurology,Dr. Lee,31,F,Hypertension,3336,Yes,Under Treatment
+1148,27-03-2024,Dermatology,Dr. Lee,77,M,Flu,1543,No,Recovered
+1149,08-04-2024,Cardiology,Dr. Patel,4,F,Flu,3453,No,Recovered
+1150,05-05-2024,General Medicine,Dr. Brown,43,F,Fever,6080,No,Recovered
+1151,01-01-2024,Neurology,Dr. Roberts,41,M,Fever,7584,Yes,Under Treatment
+1152,11-05-2024,Neurology,Dr. Smith,25,F,Migraine,8837,Yes,Recovered
+1153,27-01-2024,Orthopedics,Dr. Smith,76,M,Fever,6448,No,Under Treatment
+1154,17-05-2024,Dermatology,Dr. Lee,57,F,Fracture,3971,Yes,Under Treatment
+1155,12-05-2024,Pediatrics,Dr. Lee,37,F,Hypertension,2701,No,Recovered
+1156,24-03-2024,General Medicine,Dr. Brown,75,M,Flu,6778,No,Under Treatment
+1157,23-05-2024,Cardiology,Dr. Patel,36,F,Flu,8673,No,Under Treatment
+1158,11-06-2024,Pediatrics,Dr. Smith,10,F,Fever,9756,Yes,Recovered
+1159,02-04-2024,Pediatrics,Dr. Lee,84,F,Flu,9755,Yes,Under Treatment
+1160,01-02-2024,General Medicine,Dr. Kim,14,F,Skin Infection,2356,No,Recovered
+1161,31-01-2024,Cardiology,Dr. Kim,13,F,Migraine,8608,No,Under Treatment
+1162,27-03-2024,Dermatology,Dr. Roberts,53,F,Migraine,1674,Yes,Recovered
+1163,11-02-2024,General Medicine,Dr. Kim,19,F,Migraine,4939,Yes,Under Treatment
+1164,28-01-2024,General Medicine,Dr. Smith,37,F,Hypertension,4047,No,Recovered
+1165,14-05-2024,Pediatrics,Dr. Patel,51,F,Fever,2790,Yes,Recovered
+1166,29-03-2024,General Medicine,Dr. Roberts,69,M,Fracture,8150,No,Under Treatment
+1167,03-02-2024,Pediatrics,Dr. Smith,75,F,Hypertension,1598,No,Recovered
+1168,20-02-2024,Neurology,Dr. Smith,66,M,Flu,9050,No,Under Treatment
+1169,25-05-2024,Dermatology,Dr. Smith,4,M,Flu,9796,No,Recovered
+1170,06-01-2024,Orthopedics,Dr. Patel,24,F,Flu,8059,No,Under Treatment
+1171,04-03-2024,Cardiology,Dr. Kim,79,M,Migraine,6652,Yes,Under Treatment
+1172,08-02-2024,Dermatology,Dr. Smith,26,M,Migraine,5109,Yes,Recovered
+1173,03-06-2024,General Medicine,Dr. Roberts,2,M,Skin Infection,3258,No,Under Treatment
+1174,03-04-2024,Pediatrics,Dr. Brown,41,M,Fracture,8815,No,Under Treatment
+1175,06-03-2024,Orthopedics,Dr. Roberts,33,F,Fever,7906,Yes,Under Treatment
+1176,21-05-2024,General Medicine,Dr. Patel,27,F,Flu,4602,Yes,Recovered
+1177,23-04-2024,General Medicine,Dr. Smith,15,M,Fever,2788,No,Recovered
+1178,12-03-2024,Dermatology,Dr. Patel,11,M,Skin Infection,7364,Yes,Recovered
+1179,03-05-2024,Pediatrics,Dr. Kim,71,M,Fever,8600,No,Under Treatment
+1180,03-02-2024,Neurology,Dr. Smith,44,F,Hypertension,8738,No,Under Treatment
+1181,01-03-2024,Neurology,Dr. Smith,28,M,Fracture,2895,Yes,Under Treatment
+1182,12-04-2024,Cardiology,Dr. Lee,1,M,Migraine,9051,No,Recovered
+1183,31-01-2024,Orthopedics,Dr. Patel,49,F,Migraine,9612,No,Under Treatment
+1184,19-01-2024,Pediatrics,Dr. Lee,71,F,Migraine,6817,No,Under Treatment
+1185,15-01-2024,Pediatrics,Dr. Smith,70,F,Hypertension,4363,Yes,Recovered
+1186,20-06-2024,Dermatology,Dr. Lee,84,M,Hypertension,7542,No,Under Treatment
+1187,02-01-2024,Dermatology,Dr. Kim,53,F,Fever,7637,No,Recovered
+1188,24-04-2024,Dermatology,Dr. Kim,45,F,Fracture,2999,No,Recovered
+1189,12-02-2024,Pediatrics,Dr. Patel,71,M,Skin Infection,4106,Yes,Recovered
+1190,18-01-2024,Dermatology,Dr. Lee,11,M,Fever,8618,Yes,Recovered
+1191,01-06-2024,Dermatology,Dr. Lee,44,F,Migraine,8048,Yes,Under Treatment
+1192,08-04-2024,General Medicine,Dr. Brown,47,M,Flu,7252,No,Recovered
+1193,10-01-2024,Orthopedics,Dr. Smith,48,F,Migraine,2344,No,Under Treatment
+1194,15-01-2024,Dermatology,Dr. Kim,28,M,Fracture,4246,No,Under Treatment
+1195,10-06-2024,General Medicine,Dr. Brown,83,F,Fever,5043,Yes,Under Treatment
+1196,03-02-2024,Cardiology,Dr. Brown,6,F,Fracture,2402,Yes,Recovered
+1197,29-05-2024,Cardiology,Dr. Brown,51,M,Migraine,8570,No,Under Treatment
+1198,03-04-2024,Dermatology,Dr. Smith,87,F,Fracture,9277,Yes,Under Treatment
+1199,14-02-2024,Cardiology,Dr. Brown,64,M,Flu,2372,Yes,Under Treatment
+1200,01-04-2024,Neurology,Dr. Kim,34,M,Fever,9164,No,Recovered
+1201,07-02-2024,Neurology,Dr. Kim,78,F,Skin Infection,9525,Yes,Recovered
+1202,25-01-2024,Pediatrics,Dr. Roberts,74,M,Flu,1555,No,Under Treatment
+1203,19-04-2024,Dermatology,Dr. Roberts,57,F,Migraine,9610,No,Recovered
+1204,16-01-2024,Dermatology,Dr. Smith,80,M,Flu,3451,Yes,Under Treatment
+1205,28-04-2024,Pediatrics,Dr. Kim,49,M,Fever,9183,No,Recovered
+1206,20-05-2024,Orthopedics,Dr. Lee,31,F,Fever,9123,No,Under Treatment
+1207,23-05-2024,Cardiology,Dr. Roberts,12,F,Fracture,5422,No,Recovered
+1208,26-03-2024,Orthopedics,Dr. Brown,55,M,Fracture,8418,No,Under Treatment
+1209,20-02-2024,Cardiology,Dr. Patel,5,M,Migraine,1263,Yes,Recovered
+1210,12-06-2024,Cardiology,Dr. Roberts,81,M,Skin Infection,7722,No,Recovered
+1211,26-02-2024,General Medicine,Dr. Roberts,53,F,Fever,8923,No,Under Treatment
+1212,17-04-2024,Neurology,Dr. Kim,90,F,Migraine,7475,Yes,Recovered
+1213,08-05-2024,General Medicine,Dr. Lee,73,F,Migraine,3196,Yes,Under Treatment
+1214,30-04-2024,Neurology,Dr. Smith,5,F,Fracture,8562,Yes,Recovered
+1215,11-02-2024,Cardiology,Dr. Patel,52,F,Skin Infection,9399,Yes,Recovered
+1216,21-04-2024,Orthopedics,Dr. Lee,88,M,Fracture,9881,Yes,Under Treatment
+1217,27-05-2024,Dermatology,Dr. Smith,75,F,Fever,3095,No,Under Treatment
+1218,30-05-2024,Orthopedics,Dr. Roberts,76,M,Fracture,9477,No,Recovered
+1219,04-01-2024,Cardiology,Dr. Patel,24,F,Migraine,9642,No,Recovered
+1220,20-05-2024,Orthopedics,Dr. Kim,6,F,Flu,3616,Yes,Recovered
+1221,18-05-2024,Orthopedics,Dr. Patel,63,F,Hypertension,3506,No,Under Treatment
+1222,28-02-2024,Cardiology,Dr. Patel,45,F,Fracture,3364,No,Under Treatment
+1223,02-05-2024,Orthopedics,Dr. Roberts,44,M,Flu,4393,No,Under Treatment
+1224,11-02-2024,Orthopedics,Dr. Roberts,51,F,Flu,5339,Yes,Recovered
+1225,06-03-2024,Orthopedics,Dr. Brown,4,M,Fracture,8805,Yes,Recovered
+1226,02-03-2024,Cardiology,Dr. Smith,85,F,Flu,6026,Yes,Recovered
+1227,21-02-2024,Orthopedics,Dr. Brown,23,M,Fever,4183,No,Recovered
+1228,30-03-2024,Neurology,Dr. Patel,22,F,Skin Infection,2143,Yes,Under Treatment
+1229,11-01-2024,Orthopedics,Dr. Brown,45,M,Migraine,8395,Yes,Under Treatment
+1230,19-04-2024,Orthopedics,Dr. Brown,31,F,Hypertension,9130,Yes,Under Treatment
+1231,03-02-2024,General Medicine,Dr. Lee,10,F,Fracture,1213,Yes,Under Treatment
+1232,03-02-2024,Orthopedics,Dr. Patel,82,F,Hypertension,7104,No,Under Treatment
+1233,27-06-2024,General Medicine,Dr. Kim,2,F,Fracture,2521,No,Recovered
+1234,04-05-2024,Neurology,Dr. Smith,67,F,Fracture,2723,Yes,Under Treatment
+1235,16-04-2024,Cardiology,Dr. Roberts,89,M,Migraine,1099,No,Recovered
+1236,17-01-2024,Orthopedics,Dr. Roberts,62,F,Fever,8897,No,Under Treatment
+1237,28-04-2024,General Medicine,Dr. Patel,35,M,Hypertension,8998,No,Recovered
+1238,10-05-2024,Orthopedics,Dr. Lee,12,M,Fracture,2908,No,Recovered
+1239,08-06-2024,Dermatology,Dr. Kim,53,M,Skin Infection,8543,Yes,Under Treatment
+1240,24-06-2024,Dermatology,Dr. Roberts,88,M,Fracture,7412,No,Under Treatment
+1241,26-04-2024,Neurology,Dr. Roberts,58,M,Skin Infection,7946,Yes,Under Treatment
+1242,19-05-2024,Dermatology,Dr. Smith,48,F,Skin Infection,7901,Yes,Under Treatment
+1243,28-04-2024,Pediatrics,Dr. Patel,74,F,Fracture,8096,Yes,Recovered
+1244,26-04-2024,Cardiology,Dr. Patel,4,M,Fracture,9173,No,Under Treatment
+1245,22-05-2024,Cardiology,Dr. Patel,12,M,Fracture,4356,Yes,Recovered
+1246,06-06-2024,Dermatology,Dr. Kim,40,M,Hypertension,8114,Yes,Under Treatment
+1247,29-06-2024,Pediatrics,Dr. Kim,14,M,Hypertension,5338,No,Under Treatment
+1248,22-03-2024,Orthopedics,Dr. Lee,1,F,Flu,4637,No,Under Treatment
+1249,04-03-2024,Cardiology,Dr. Patel,72,F,Fever,3618,Yes,Recovered
+1250,26-05-2024,Dermatology,Dr. Smith,49,F,Skin Infection,9034,No,Under Treatment
+1251,29-02-2024,Neurology,Dr. Lee,10,F,Fever,3800,Yes,Recovered
+1252,01-04-2024,General Medicine,Dr. Brown,58,F,Migraine,3649,Yes,Under Treatment
+1253,24-02-2024,General Medicine,Dr. Brown,81,F,Migraine,9891,Yes,Recovered
+1254,18-06-2024,Cardiology,Dr. Smith,25,M,Skin Infection,3011,Yes,Under Treatment
+1255,21-06-2024,Dermatology,Dr. Kim,69,F,Fracture,5176,No,Under Treatment
+1256,08-05-2024,Cardiology,Dr. Brown,73,M,Fever,3844,No,Under Treatment
+1257,31-01-2024,Neurology,Dr. Smith,87,F,Fracture,8830,No,Under Treatment
+1258,08-01-2024,Pediatrics,Dr. Lee,3,M,Migraine,7385,Yes,Recovered
+1259,17-06-2024,Orthopedics,Dr. Lee,79,F,Flu,5725,Yes,Recovered
+1260,06-06-2024,Dermatology,Dr. Kim,23,F,Fever,5915,No,Recovered
+1261,22-05-2024,Cardiology,Dr. Kim,70,M,Skin Infection,9415,No,Under Treatment
+1262,05-03-2024,Orthopedics,Dr. Brown,78,M,Migraine,2397,Yes,Under Treatment
+1263,17-02-2024,Neurology,Dr. Kim,36,M,Fever,1904,No,Under Treatment
+1264,24-02-2024,Cardiology,Dr. Lee,84,M,Fever,2713,No,Recovered
+1265,04-03-2024,Orthopedics,Dr. Brown,37,F,Hypertension,9698,No,Under Treatment
+1266,27-01-2024,Neurology,Dr. Lee,1,M,Migraine,7975,Yes,Recovered
+1267,21-02-2024,Cardiology,Dr. Patel,86,M,Skin Infection,5189,No,Under Treatment
+1268,29-03-2024,Cardiology,Dr. Brown,87,F,Flu,7600,No,Recovered
+1269,26-04-2024,Orthopedics,Dr. Kim,40,F,Migraine,1341,No,Under Treatment
+1270,07-02-2024,Orthopedics,Dr. Smith,37,M,Migraine,4068,No,Recovered
+1271,10-02-2024,Neurology,Dr. Roberts,35,F,Flu,5665,Yes,Under Treatment
+1272,18-03-2024,Orthopedics,Dr. Brown,67,F,Fever,1215,No,Under Treatment
+1273,21-02-2024,Cardiology,Dr. Kim,83,M,Fracture,9791,No,Recovered
+1274,29-03-2024,General Medicine,Dr. Patel,74,F,Fever,2159,Yes,Under Treatment
+1275,01-04-2024,Cardiology,Dr. Brown,56,M,Skin Infection,6340,No,Recovered
+1276,21-05-2024,Cardiology,Dr. Roberts,87,F,Fracture,7507,Yes,Recovered
+1277,04-06-2024,Orthopedics,Dr. Kim,37,F,Hypertension,5738,Yes,Recovered
+1278,21-02-2024,Pediatrics,Dr. Kim,20,F,Fever,4232,No,Under Treatment
+1279,27-02-2024,Cardiology,Dr. Brown,44,M,Flu,2330,No,Under Treatment
+1280,16-04-2024,Cardiology,Dr. Kim,7,F,Fever,9202,No,Under Treatment
+1281,08-03-2024,Pediatrics,Dr. Lee,85,F,Hypertension,4052,No,Recovered
+1282,14-05-2024,General Medicine,Dr. Lee,37,F,Flu,5546,Yes,Recovered
+1283,02-06-2024,Neurology,Dr. Kim,67,F,Hypertension,3972,No,Under Treatment
+1284,26-01-2024,Neurology,Dr. Lee,36,F,Migraine,2319,No,Recovered
+1285,05-03-2024,Cardiology,Dr. Kim,29,M,Flu,1760,Yes,Recovered
+1286,09-04-2024,Cardiology,Dr. Roberts,22,F,Migraine,8037,No,Under Treatment
+1287,27-01-2024,Pediatrics,Dr. Kim,81,M,Flu,3195,Yes,Under Treatment
+1288,30-04-2024,Orthopedics,Dr. Roberts,59,M,Skin Infection,2041,Yes,Recovered
+1289,09-06-2024,Neurology,Dr. Lee,66,M,Fever,1681,Yes,Under Treatment
+1290,09-04-2024,General Medicine,Dr. Roberts,19,F,Fracture,4927,Yes,Under Treatment
+1291,06-05-2024,Cardiology,Dr. Lee,57,F,Hypertension,5162,Yes,Recovered
+1292,29-06-2024,Cardiology,Dr. Patel,46,M,Fever,1046,Yes,Recovered
+1293,18-03-2024,Cardiology,Dr. Brown,25,F,Fracture,8694,No,Under Treatment
+1294,30-05-2024,Pediatrics,Dr. Lee,83,F,Skin Infection,2691,Yes,Recovered
+1295,14-05-2024,Pediatrics,Dr. Patel,69,F,Flu,2973,Yes,Under Treatment
+1296,19-03-2024,Orthopedics,Dr. Brown,60,M,Hypertension,8098,Yes,Recovered
+1297,28-04-2024,Orthopedics,Dr. Brown,41,F,Skin Infection,8860,Yes,Under Treatment
+1298,08-04-2024,Cardiology,Dr. Brown,79,M,Migraine,9531,No,Recovered
+1299,29-01-2024,Neurology,Dr. Brown,89,F,Flu,6225,Yes,Under Treatment
+1300,10-03-2024,Neurology,Dr. Kim,9,F,Fracture,6140,Yes,Recovered
+1301,13-01-2024,Orthopedics,Dr. Kim,37,F,Hypertension,9787,Yes,Recovered
+1302,24-06-2024,Neurology,Dr. Patel,18,F,Hypertension,6420,No,Under Treatment
+1303,24-02-2024,Dermatology,Dr. Brown,82,M,Fever,1500,Yes,Recovered
+1304,23-05-2024,Orthopedics,Dr. Smith,53,M,Migraine,4237,No,Recovered
+1305,10-03-2024,Dermatology,Dr. Brown,25,F,Fracture,5272,Yes,Under Treatment
+1306,23-01-2024,Cardiology,Dr. Kim,87,M,Migraine,1840,Yes,Under Treatment
+1307,18-02-2024,Orthopedics,Dr. Lee,5,F,Skin Infection,5201,No,Under Treatment
+1308,23-04-2024,Dermatology,Dr. Lee,68,F,Flu,6605,Yes,Under Treatment
+1309,29-03-2024,Pediatrics,Dr. Lee,68,M,Fracture,9947,Yes,Recovered
+1310,21-04-2024,General Medicine,Dr. Patel,2,F,Migraine,2108,No,Recovered
+1311,13-04-2024,Dermatology,Dr. Patel,50,M,Fracture,6641,No,Recovered
+1312,27-04-2024,Cardiology,Dr. Lee,72,F,Flu,1364,No,Recovered
+1313,02-03-2024,Cardiology,Dr. Kim,3,M,Hypertension,1070,Yes,Under Treatment
+1314,20-04-2024,General Medicine,Dr. Lee,46,M,Hypertension,3514,Yes,Under Treatment
+1315,29-05-2024,Neurology,Dr. Kim,64,M,Fracture,6791,Yes,Recovered
+1316,26-04-2024,Cardiology,Dr. Smith,51,M,Skin Infection,4282,No,Recovered
+1317,10-06-2024,Neurology,Dr. Smith,48,F,Migraine,8258,No,Recovered
+1318,14-04-2024,Neurology,Dr. Brown,30,F,Fracture,5034,Yes,Recovered
+1319,02-01-2024,General Medicine,Dr. Brown,1,F,Hypertension,6340,No,Recovered
+1320,22-05-2024,Neurology,Dr. Patel,25,M,Fracture,7010,No,Under Treatment
+1321,05-04-2024,General Medicine,Dr. Roberts,5,M,Flu,8320,Yes,Under Treatment
+1322,11-04-2024,Orthopedics,Dr. Roberts,6,F,Fracture,4804,Yes,Under Treatment
+1323,07-06-2024,General Medicine,Dr. Roberts,13,M,Migraine,4434,Yes,Recovered
+1324,27-04-2024,Orthopedics,Dr. Patel,59,M,Skin Infection,6258,No,Under Treatment
+1325,19-01-2024,Dermatology,Dr. Smith,81,F,Flu,5745,No,Under Treatment
+1326,27-01-2024,Cardiology,Dr. Lee,36,M,Migraine,8949,Yes,Recovered
+1327,01-06-2024,General Medicine,Dr. Roberts,18,M,Flu,3516,No,Under Treatment
+1328,11-04-2024,Pediatrics,Dr. Brown,23,M,Migraine,6186,Yes,Under Treatment
+1329,19-01-2024,Orthopedics,Dr. Kim,47,M,Fracture,8876,Yes,Recovered
+1330,12-05-2024,Cardiology,Dr. Roberts,41,F,Skin Infection,8809,Yes,Under Treatment
+1331,01-01-2024,Cardiology,Dr. Lee,69,M,Migraine,5281,Yes,Recovered
+1332,23-01-2024,Dermatology,Dr. Patel,85,F,Hypertension,4476,Yes,Under Treatment
+1333,21-02-2024,Cardiology,Dr. Smith,44,F,Fracture,3101,Yes,Under Treatment
+1334,14-03-2024,Dermatology,Dr. Smith,86,M,Fever,7067,No,Under Treatment
+1335,08-03-2024,Dermatology,Dr. Lee,3,F,Migraine,2373,Yes,Under Treatment
+1336,24-01-2024,Orthopedics,Dr. Smith,78,M,Hypertension,8996,No,Under Treatment
+1337,10-03-2024,Neurology,Dr. Smith,17,F,Migraine,4546,Yes,Recovered
+1338,03-03-2024,Cardiology,Dr. Brown,53,F,Fracture,6300,No,Recovered
+1339,26-01-2024,Orthopedics,Dr. Lee,81,F,Fever,2454,No,Under Treatment
+1340,04-01-2024,Dermatology,Dr. Patel,56,F,Skin Infection,4507,Yes,Recovered
+1341,17-01-2024,Dermatology,Dr. Roberts,8,F,Fever,2275,No,Recovered
+1342,31-05-2024,Cardiology,Dr. Brown,45,F,Flu,7698,Yes,Recovered
+1343,18-04-2024,Pediatrics,Dr. Roberts,80,F,Skin Infection,1792,No,Under Treatment
+1344,15-02-2024,Neurology,Dr. Brown,6,F,Fever,1235,No,Recovered
+1345,13-05-2024,General Medicine,Dr. Patel,32,M,Flu,6240,Yes,Under Treatment
+1346,24-01-2024,General Medicine,Dr. Brown,11,M,Hypertension,3190,Yes,Recovered
+1347,01-03-2024,Cardiology,Dr. Kim,78,F,Fracture,3754,Yes,Under Treatment
+1348,24-06-2024,Orthopedics,Dr. Patel,50,F,Flu,9530,No,Recovered
+1349,20-01-2024,Orthopedics,Dr. Brown,19,F,Flu,3440,Yes,Recovered
+1350,03-04-2024,General Medicine,Dr. Smith,35,M,Fracture,1512,Yes,Under Treatment
+1351,20-05-2024,Pediatrics,Dr. Brown,10,F,Hypertension,8050,Yes,Recovered
+1352,17-05-2024,Cardiology,Dr. Lee,87,M,Fracture,1825,No,Under Treatment
+1353,03-05-2024,Pediatrics,Dr. Kim,13,M,Fracture,1389,Yes,Recovered
+1354,31-05-2024,Neurology,Dr. Brown,83,M,Migraine,1269,Yes,Under Treatment
+1355,04-06-2024,Dermatology,Dr. Smith,77,F,Fever,6006,Yes,Recovered
+1356,18-03-2024,General Medicine,Dr. Patel,80,F,Migraine,3385,No,Under Treatment
+1357,20-02-2024,Neurology,Dr. Lee,52,F,Skin Infection,9040,Yes,Under Treatment
+1358,28-05-2024,Pediatrics,Dr. Kim,46,M,Migraine,8275,No,Recovered
+1359,17-01-2024,Pediatrics,Dr. Kim,9,F,Hypertension,7991,Yes,Recovered
+1360,23-06-2024,Orthopedics,Dr. Patel,11,M,Fracture,1991,No,Recovered
+1361,12-02-2024,General Medicine,Dr. Brown,6,F,Skin Infection,5020,No,Under Treatment
+1362,27-04-2024,General Medicine,Dr. Smith,51,M,Hypertension,5526,Yes,Recovered
+1363,01-01-2024,Pediatrics,Dr. Lee,86,F,Hypertension,1429,Yes,Under Treatment
+1364,13-05-2024,Cardiology,Dr. Roberts,85,F,Skin Infection,4166,No,Recovered
+1365,15-03-2024,Orthopedics,Dr. Roberts,26,M,Flu,4300,Yes,Under Treatment
+1366,09-04-2024,General Medicine,Dr. Kim,80,F,Skin Infection,7062,Yes,Under Treatment
+1367,23-05-2024,Dermatology,Dr. Smith,41,F,Fracture,3281,Yes,Under Treatment
+1368,03-05-2024,Dermatology,Dr. Brown,14,F,Hypertension,4270,Yes,Under Treatment
+1369,20-05-2024,Dermatology,Dr. Kim,2,M,Hypertension,3278,Yes,Under Treatment
+1370,23-04-2024,Dermatology,Dr. Roberts,33,M,Fracture,1975,No,Under Treatment
+1371,22-03-2024,Cardiology,Dr. Kim,13,M,Fracture,8512,Yes,Recovered
+1372,19-04-2024,Neurology,Dr. Lee,56,F,Migraine,7970,No,Under Treatment
+1373,05-06-2024,Neurology,Dr. Kim,43,M,Hypertension,3076,No,Under Treatment
+1374,10-01-2024,Pediatrics,Dr. Kim,59,F,Migraine,1069,Yes,Recovered
+1375,07-02-2024,Cardiology,Dr. Roberts,54,M,Flu,7373,Yes,Under Treatment
+1376,18-05-2024,Dermatology,Dr. Roberts,30,M,Fracture,5083,No,Recovered
+1377,21-02-2024,Orthopedics,Dr. Kim,57,F,Migraine,2513,No,Recovered
+1378,19-04-2024,Pediatrics,Dr. Roberts,85,F,Flu,6938,No,Under Treatment
+1379,14-05-2024,Pediatrics,Dr. Kim,47,F,Fracture,7823,No,Recovered
+1380,29-01-2024,Neurology,Dr. Kim,52,M,Flu,6088,No,Under Treatment
+1381,02-01-2024,Pediatrics,Dr. Roberts,62,F,Migraine,3915,No,Recovered
+1382,22-05-2024,Cardiology,Dr. Lee,40,M,Fever,5541,Yes,Under Treatment
+1383,06-05-2024,Orthopedics,Dr. Kim,89,F,Migraine,4127,Yes,Under Treatment
+1384,27-01-2024,Neurology,Dr. Lee,78,M,Fracture,3843,No,Under Treatment
+1385,22-01-2024,General Medicine,Dr. Patel,61,F,Skin Infection,1832,Yes,Under Treatment
+1386,01-05-2024,Cardiology,Dr. Lee,26,F,Hypertension,6167,No,Recovered
+1387,18-05-2024,Pediatrics,Dr. Roberts,12,F,Flu,4007,No,Under Treatment
+1388,10-06-2024,Neurology,Dr. Brown,19,M,Fracture,2137,Yes,Under Treatment
+1389,21-05-2024,Cardiology,Dr. Lee,43,M,Fracture,3856,No,Under Treatment
+1390,11-03-2024,Dermatology,Dr. Roberts,52,F,Flu,5202,Yes,Under Treatment
+1391,22-02-2024,Dermatology,Dr. Roberts,36,M,Fever,7408,Yes,Recovered
+1392,23-01-2024,Orthopedics,Dr. Roberts,19,M,Flu,9648,Yes,Recovered
+1393,04-03-2024,Cardiology,Dr. Brown,22,M,Flu,5818,No,Under Treatment
+1394,12-02-2024,Pediatrics,Dr. Smith,62,F,Flu,6330,Yes,Recovered
+1395,07-05-2024,Pediatrics,Dr. Lee,73,M,Migraine,3275,No,Under Treatment
+1396,31-01-2024,Dermatology,Dr. Lee,18,F,Flu,8552,Yes,Recovered
+1397,04-04-2024,Orthopedics,Dr. Roberts,74,F,Migraine,7984,Yes,Recovered
+1398,18-03-2024,Dermatology,Dr. Kim,48,M,Fracture,9603,No,Under Treatment
+1399,06-02-2024,Dermatology,Dr. Brown,63,M,Migraine,7138,No,Recovered
+1400,03-03-2024,General Medicine,Dr. Patel,18,F,Hypertension,9801,No,Under Treatment
+1401,28-05-2024,Pediatrics,Dr. Brown,52,F,Fracture,2445,No,Under Treatment
+1402,06-06-2024,Orthopedics,Dr. Smith,41,F,Fever,8128,Yes,Recovered
+1403,29-01-2024,Cardiology,Dr. Brown,3,M,Migraine,5975,Yes,Under Treatment
+1404,14-04-2024,Neurology,Dr. Patel,81,F,Flu,7897,Yes,Under Treatment
+1405,24-03-2024,General Medicine,Dr. Smith,88,M,Flu,7204,No,Under Treatment
+1406,24-01-2024,Dermatology,Dr. Brown,45,F,Fever,9557,Yes,Recovered
+1407,23-05-2024,General Medicine,Dr. Lee,43,F,Fracture,1879,No,Recovered
+1408,21-06-2024,General Medicine,Dr. Roberts,89,F,Fracture,1799,Yes,Under Treatment
+1409,16-05-2024,Pediatrics,Dr. Patel,25,M,Fever,8896,No,Recovered
+1410,28-06-2024,Neurology,Dr. Patel,48,M,Migraine,3432,Yes,Recovered
+1411,15-06-2024,Dermatology,Dr. Lee,62,F,Fever,6438,No,Under Treatment
+1412,08-06-2024,Neurology,Dr. Roberts,24,F,Migraine,7811,No,Recovered
+1413,04-02-2024,Dermatology,Dr. Kim,10,M,Hypertension,7994,No,Recovered
+1414,28-02-2024,Cardiology,Dr. Brown,90,F,Hypertension,2126,Yes,Recovered
+1415,11-05-2024,Orthopedics,Dr. Smith,76,M,Skin Infection,5743,Yes,Recovered
+1416,01-01-2024,General Medicine,Dr. Roberts,79,F,Fracture,5373,No,Recovered
+1417,07-04-2024,Cardiology,Dr. Patel,37,F,Hypertension,3902,No,Under Treatment
+1418,28-03-2024,Pediatrics,Dr. Patel,19,M,Fever,9304,Yes,Under Treatment
+1419,27-02-2024,Pediatrics,Dr. Kim,46,F,Hypertension,1208,Yes,Recovered
+1420,17-05-2024,Orthopedics,Dr. Kim,78,F,Migraine,6992,No,Under Treatment
+1421,11-02-2024,Pediatrics,Dr. Roberts,21,F,Migraine,7149,Yes,Under Treatment
+1422,10-03-2024,General Medicine,Dr. Patel,21,F,Flu,3692,No,Recovered
+1423,14-05-2024,Cardiology,Dr. Patel,23,F,Skin Infection,2091,No,Recovered
+1424,18-01-2024,Neurology,Dr. Smith,58,F,Skin Infection,4300,Yes,Under Treatment
+1425,02-05-2024,Cardiology,Dr. Kim,17,M,Skin Infection,9628,No,Recovered
+1426,22-05-2024,General Medicine,Dr. Lee,19,M,Hypertension,5952,Yes,Recovered
+1427,04-01-2024,Pediatrics,Dr. Lee,42,F,Hypertension,7159,Yes,Under Treatment
+1428,10-05-2024,Orthopedics,Dr. Brown,71,F,Hypertension,9349,Yes,Under Treatment
+1429,03-04-2024,Dermatology,Dr. Roberts,11,F,Flu,3318,Yes,Under Treatment
+1430,08-05-2024,Orthopedics,Dr. Roberts,78,M,Skin Infection,9743,No,Recovered
+1431,07-03-2024,Cardiology,Dr. Kim,83,F,Skin Infection,8815,No,Recovered
+1432,27-03-2024,Orthopedics,Dr. Lee,51,M,Hypertension,5764,Yes,Recovered
+1433,20-03-2024,Dermatology,Dr. Kim,61,M,Skin Infection,7348,Yes,Under Treatment
+1434,23-03-2024,Neurology,Dr. Brown,85,M,Hypertension,3672,Yes,Under Treatment
+1435,06-03-2024,Dermatology,Dr. Patel,13,M,Fracture,3737,No,Under Treatment
+1436,11-02-2024,General Medicine,Dr. Smith,68,F,Hypertension,9813,No,Recovered
+1437,18-04-2024,General Medicine,Dr. Patel,24,M,Flu,1287,No,Recovered
+1438,09-04-2024,General Medicine,Dr. Smith,84,M,Flu,2844,Yes,Under Treatment
+1439,18-05-2024,Orthopedics,Dr. Patel,80,M,Flu,3502,Yes,Under Treatment
+1440,28-04-2024,Cardiology,Dr. Lee,53,F,Fracture,9337,No,Under Treatment
+1441,22-06-2024,Orthopedics,Dr. Patel,7,M,Flu,1789,No,Under Treatment
+1442,21-05-2024,Dermatology,Dr. Lee,38,F,Fever,6788,No,Under Treatment
+1443,27-06-2024,Pediatrics,Dr. Brown,73,M,Fracture,4710,No,Recovered
+1444,06-01-2024,Neurology,Dr. Smith,50,F,Hypertension,3658,No,Recovered
+1445,08-04-2024,Dermatology,Dr. Kim,74,M,Fever,8916,No,Recovered
+1446,27-06-2024,Dermatology,Dr. Brown,74,F,Migraine,6739,No,Recovered
+1447,13-04-2024,Pediatrics,Dr. Smith,39,M,Skin Infection,6521,Yes,Under Treatment
+1448,16-03-2024,Orthopedics,Dr. Brown,51,F,Hypertension,9097,Yes,Under Treatment
+1449,24-04-2024,Orthopedics,Dr. Roberts,7,F,Fracture,1792,No,Recovered
+1450,20-03-2024,Cardiology,Dr. Brown,17,F,Fever,9401,No,Under Treatment
+1451,23-04-2024,Neurology,Dr. Kim,64,M,Hypertension,3204,No,Recovered
+1452,11-01-2024,Pediatrics,Dr. Kim,83,F,Hypertension,7313,Yes,Recovered
+1453,02-01-2024,Dermatology,Dr. Brown,18,M,Fever,8452,No,Recovered
+1454,20-05-2024,Cardiology,Dr. Brown,52,M,Fever,7902,No,Recovered
+1455,15-06-2024,Dermatology,Dr. Roberts,8,F,Fever,3107,No,Under Treatment
+1456,26-01-2024,Pediatrics,Dr. Roberts,76,M,Migraine,8513,Yes,Under Treatment
+1457,15-03-2024,Cardiology,Dr. Smith,12,F,Fracture,4584,No,Recovered
+1458,06-05-2024,Cardiology,Dr. Patel,66,F,Fracture,4937,Yes,Under Treatment
+1459,11-05-2024,Orthopedics,Dr. Brown,28,F,Hypertension,9383,No,Recovered
+1460,02-06-2024,Pediatrics,Dr. Kim,45,F,Fever,6625,No,Under Treatment
+1461,20-01-2024,General Medicine,Dr. Kim,58,F,Skin Infection,8970,Yes,Recovered
+1462,05-04-2024,Orthopedics,Dr. Roberts,12,M,Skin Infection,9806,No,Under Treatment
+1463,12-01-2024,Cardiology,Dr. Kim,34,M,Fracture,2757,No,Under Treatment
+1464,09-03-2024,Pediatrics,Dr. Kim,27,F,Fever,2398,Yes,Recovered
+1465,27-05-2024,General Medicine,Dr. Patel,10,M,Migraine,7084,No,Under Treatment
+1466,23-01-2024,General Medicine,Dr. Patel,82,F,Skin Infection,7489,Yes,Under Treatment
+1467,11-02-2024,General Medicine,Dr. Lee,8,M,Skin Infection,1987,Yes,Under Treatment
+1468,16-05-2024,Pediatrics,Dr. Brown,16,M,Fracture,6128,Yes,Under Treatment
+1469,09-03-2024,General Medicine,Dr. Brown,49,F,Fracture,4406,Yes,Recovered
+1470,14-03-2024,Neurology,Dr. Kim,86,M,Fever,5463,Yes,Recovered
+1471,28-03-2024,Pediatrics,Dr. Roberts,43,F,Migraine,9173,No,Under Treatment
+1472,01-04-2024,Dermatology,Dr. Roberts,74,F,Hypertension,3672,Yes,Recovered
+1473,28-06-2024,Orthopedics,Dr. Lee,14,F,Skin Infection,5374,Yes,Under Treatment
+1474,13-06-2024,Cardiology,Dr. Lee,2,M,Fever,9844,Yes,Recovered
+1475,11-02-2024,Orthopedics,Dr. Smith,36,F,Fever,8285,Yes,Recovered
+1476,05-05-2024,General Medicine,Dr. Brown,5,M,Fracture,5540,Yes,Under Treatment
+1477,24-01-2024,Neurology,Dr. Smith,85,F,Fever,9033,Yes,Under Treatment
+1478,18-06-2024,General Medicine,Dr. Lee,13,F,Skin Infection,4268,Yes,Under Treatment
+1479,21-02-2024,Pediatrics,Dr. Kim,66,F,Flu,2407,Yes,Under Treatment
+1480,30-05-2024,Neurology,Dr. Brown,90,M,Skin Infection,2358,No,Recovered
+1481,21-04-2024,Dermatology,Dr. Kim,59,M,Hypertension,1568,No,Recovered
+1482,31-05-2024,General Medicine,Dr. Patel,8,M,Hypertension,3493,No,Recovered
+1483,10-04-2024,General Medicine,Dr. Roberts,44,M,Fracture,6533,Yes,Recovered
+1484,21-03-2024,Dermatology,Dr. Roberts,5,M,Flu,3421,No,Under Treatment
+1485,25-01-2024,Dermatology,Dr. Roberts,34,M,Migraine,8771,Yes,Under Treatment
+1486,17-04-2024,General Medicine,Dr. Patel,62,M,Skin Infection,2796,No,Recovered
+1487,21-03-2024,Cardiology,Dr. Roberts,40,F,Skin Infection,2368,Yes,Recovered
+1488,03-01-2024,Pediatrics,Dr. Smith,11,F,Migraine,8640,No,Under Treatment
+1489,12-02-2024,Cardiology,Dr. Smith,83,M,Fracture,5906,Yes,Under Treatment
+1490,17-03-2024,General Medicine,Dr. Patel,61,M,Fracture,1448,Yes,Under Treatment
+1491,13-06-2024,Pediatrics,Dr. Lee,6,F,Fever,7736,Yes,Recovered
+1492,15-05-2024,Neurology,Dr. Roberts,88,F,Fracture,1779,No,Under Treatment
+1493,23-04-2024,General Medicine,Dr. Patel,22,M,Fracture,3180,No,Under Treatment
+1494,02-04-2024,Neurology,Dr. Brown,6,M,Fever,2391,No,Recovered
+1495,02-05-2024,General Medicine,Dr. Lee,46,F,Hypertension,7570,Yes,Under Treatment
+1496,20-06-2024,Dermatology,Dr. Patel,21,F,Flu,2689,Yes,Recovered
+1497,13-02-2024,Orthopedics,Dr. Brown,19,F,Skin Infection,1377,Yes,Under Treatment
+1498,02-03-2024,Cardiology,Dr. Smith,69,F,Migraine,8881,Yes,Recovered
+1499,10-03-2024,General Medicine,Dr. Lee,65,F,Skin Infection,5977,Yes,Under Treatment
+1500,25-02-2024,Dermatology,Dr. Patel,80,M,Flu,9325,Yes,Under Treatment

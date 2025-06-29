@@ -1,0 +1,501 @@
+CustomerID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,Discount,Region
+6450,2023-09-18,Beauty,Oil,8,304.18,2068.42,15,East
+2891,2023-08-04,Books,Suffer,5,197.07,985.35,0,Central
+4734,2024-04-05,Beauty,Other,13,343.17,3345.91,25,West
+3123,2024-11-11,Clothing,Step,4,643.04,2186.34,15,West
+3500,2023-08-14,Clothing,Always,7,153.2,965.16,10,West
+2877,2023-05-30,Clothing,Though,5,489.85,2081.86,15,North
+9272,2023-05-09,Electronics,Power,14,289.91,3652.87,10,East
+4263,2023-10-22,Beauty,Physical,2,886.01,1683.42,5,Central
+8032,2023-06-05,Home Appliances,Include,7,632.08,4424.56,0,East
+7749,2024-08-24,Home Appliances,Specific,9,156.0,1053.0,25,South
+4764,2023-08-25,Beauty,Boy,5,222.86,1058.59,5,North
+5478,2025-01-23,Books,Sense,1,445.03,400.53,10,South
+5107,2023-09-12,Home Appliances,Activity,2,443.64,887.28,0,Central
+8297,2023-11-14,Home Appliances,Attention,4,761.75,3047.0,0,South
+6829,2024-06-22,Electronics,First,9,42.96,289.98,25,West
+6161,2024-02-20,Electronics,Worry,12,749.03,8089.52,10,Central
+1464,2024-08-31,Beauty,Reduce,7,691.82,4358.47,10,West
+3680,2023-11-27,Beauty,Appear,11,841.93,9261.23,0,South
+8307,2023-07-05,Electronics,Fast,12,434.95,3914.55,25,North
+4754,2025-02-20,Electronics,Dog,9,157.61,1205.72,15,North
+1445,2023-11-16,Books,Road,5,946.51,3786.04,20,Central
+3254,2023-07-07,Electronics,Less,1,567.35,482.25,15,East
+1863,2024-09-08,Electronics,Data,13,610.77,5955.01,25,East
+8576,2024-07-21,Books,Development,2,901.23,1532.09,15,Central
+6937,2023-03-27,Electronics,Budget,14,17.98,239.13,5,West
+6551,2024-04-03,Home Appliances,Girl,4,632.12,2022.78,20,West
+9953,2023-06-17,Beauty,Stand,3,938.23,2111.02,25,Central
+1489,2023-09-14,Books,Return,9,729.73,6239.19,5,West
+8342,2023-08-12,Books,Deal,15,134.36,1511.55,25,North
+3046,2024-08-02,Electronics,Happy,7,961.19,6391.91,5,North
+1122,2023-07-04,Beauty,Lead,10,867.86,6508.95,25,East
+8159,2023-08-31,Home Appliances,Art,10,439.82,3518.56,20,South
+5495,2024-07-24,Electronics,Hard,9,59.42,481.3,10,East
+4927,2024-12-07,Books,Include,2,382.55,688.59,10,East
+5655,2023-08-25,Home Appliances,Leg,1,692.1,588.29,15,South
+4022,2023-05-21,Electronics,Operation,1,866.44,866.44,0,North
+6458,2025-01-27,Home Appliances,Republican,2,952.1,1808.99,5,East
+3300,2023-08-21,Home Appliances,West,12,826.66,9919.92,0,East
+8498,2024-07-04,Clothing,Produce,8,115.32,784.18,15,North
+5161,2024-02-20,Beauty,Nor,13,321.32,4177.16,0,West
+7635,2023-06-06,Clothing,Seek,2,638.46,1149.23,10,Central
+1709,2024-07-29,Clothing,Movement,15,251.89,2833.76,25,East
+4796,2024-10-15,Electronics,Fight,4,411.53,1646.12,0,Central
+4993,2024-01-18,Electronics,Can,8,449.27,3594.16,0,West
+2001,2024-03-31,Clothing,Central,5,820.48,4102.4,0,North
+2617,2024-10-27,Beauty,Rate,11,83.26,686.89,25,South
+8798,2025-02-14,Electronics,Fund,13,678.49,7938.33,10,East
+4713,2024-09-23,Beauty,Well,10,978.87,8809.83,10,Central
+7579,2023-04-16,Clothing,Production,11,899.65,9896.15,0,South
+2962,2023-09-15,Electronics,Weight,1,394.72,296.04,25,North
+8514,2025-01-09,Home Appliances,All,15,503.46,5663.92,25,West
+2453,2023-06-06,Electronics,Century,2,70.08,112.13,20,West
+4966,2023-09-11,Beauty,Individual,1,89.85,89.85,0,Central
+3277,2024-04-22,Home Appliances,Thus,12,327.42,3143.23,20,Central
+9456,2024-01-26,Electronics,Design,14,437.34,5204.35,15,South
+8454,2023-04-11,Electronics,Home,8,124.83,748.98,25,East
+2698,2025-02-05,Books,Recognize,11,998.7,8788.56,20,South
+4690,2023-08-07,Books,Production,10,797.84,5983.8,25,West
+1191,2024-01-13,Home Appliances,Adult,8,807.7,5169.28,20,South
+9149,2024-07-21,Home Appliances,Building,10,256.51,2180.34,15,West
+4878,2023-12-10,Beauty,Still,2,553.99,1052.58,5,Central
+9999,2024-10-07,Beauty,Other,4,864.81,2767.39,20,South
+6714,2023-10-04,Electronics,Particularly,6,113.69,648.03,5,Central
+3294,2023-12-29,Books,Cup,11,324.65,2678.36,25,West
+6897,2024-10-02,Books,Avoid,4,188.86,679.9,10,North
+6475,2023-03-24,Electronics,Again,2,683.66,1230.59,10,East
+5634,2024-06-09,Clothing,Usually,6,181.87,982.1,10,West
+7523,2024-01-31,Electronics,Thank,6,185.92,836.64,25,West
+6958,2024-01-17,Home Appliances,Among,5,877.05,3946.72,10,West
+2148,2024-07-23,Clothing,Learn,9,713.78,6102.82,5,West
+9177,2024-02-19,Clothing,Audience,6,233.39,1400.34,0,North
+7270,2023-12-14,Beauty,Mr,2,525.18,997.84,5,West
+7615,2025-01-30,Clothing,Democratic,7,564.5,2963.62,25,North
+7828,2023-06-30,Clothing,Interview,15,173.52,1952.1,25,Central
+9791,2024-06-23,Home Appliances,This,1,405.18,303.88,25,West
+5644,2024-04-03,Beauty,Whatever,6,494.2,2965.2,0,South
+8816,2024-05-21,Clothing,Middle,6,269.3,1535.01,5,West
+7457,2024-03-07,Books,Nice,12,183.64,1652.76,25,East
+5995,2023-05-19,Electronics,How,2,116.64,174.96,25,Central
+5631,2023-06-06,Clothing,Push,12,118.74,1139.9,20,West
+5256,2024-01-24,Beauty,Program,1,943.92,755.14,20,North
+1886,2024-11-23,Home Appliances,Political,4,199.48,638.34,20,East
+5418,2025-02-21,Books,Lawyer,13,607.72,7505.34,5,South
+6419,2024-05-16,Home Appliances,Contain,11,983.09,8651.19,20,North
+8842,2023-08-26,Beauty,Indicate,11,354.33,3118.1,20,East
+6930,2023-08-05,Beauty,History,2,831.68,1247.52,25,Central
+6784,2023-05-01,Home Appliances,Stuff,1,138.83,111.06,20,Central
+9231,2024-11-03,Clothing,Suddenly,8,462.42,2774.52,25,Central
+8464,2024-08-10,Electronics,Piece,7,368.21,2448.6,5,West
+6488,2024-05-03,Beauty,Else,12,297.39,3211.81,10,South
+4614,2023-03-25,Home Appliances,Form,11,829.31,8210.17,10,North
+6212,2024-05-23,Books,For,7,112.58,669.85,15,Central
+7268,2023-05-13,Beauty,Financial,4,838.31,2514.93,25,West
+1006,2024-12-24,Clothing,Possible,3,785.03,1884.07,20,West
+6473,2024-12-06,Books,Sometimes,4,854.28,2904.55,15,East
+6045,2023-08-01,Electronics,Only,6,668.22,3808.85,5,North
+8670,2023-11-02,Home Appliances,Kid,7,293.39,2053.73,0,West
+3495,2023-09-17,Clothing,Though,7,380.8,2132.48,20,West
+1502,2024-11-15,Beauty,Sport,15,821.23,9854.76,20,Central
+6531,2024-04-17,Clothing,Newspaper,10,621.43,5592.87,10,West
+1678,2024-09-03,Books,Baby,6,374.44,2021.98,10,South
+4080,2023-04-21,Clothing,Approach,3,330.56,793.34,20,Central
+2320,2024-06-28,Home Appliances,Worker,10,420.52,3153.9,25,North
+1133,2024-04-12,Clothing,Possible,15,176.08,2245.02,15,Central
+7182,2024-11-15,Beauty,Decide,15,502.22,6026.64,20,South
+3066,2023-08-20,Home Appliances,Tree,14,202.58,2694.31,5,Central
+9606,2024-10-16,Clothing,Nice,12,74.88,763.78,15,South
+4433,2024-04-29,Books,Trouble,6,863.29,5179.74,0,South
+1707,2023-12-05,Home Appliances,Skill,3,505.52,1213.25,20,East
+3274,2024-06-17,Home Appliances,Beautiful,4,430.03,1634.11,5,Central
+6786,2023-10-22,Electronics,Degree,7,968.31,6778.17,0,Central
+4641,2023-09-09,Books,Sea,8,614.27,3931.33,20,South
+2397,2023-08-03,Beauty,Voice,12,290.32,2787.07,20,Central
+9124,2023-04-30,Beauty,Mrs,14,988.47,12454.72,10,Central
+6678,2024-03-27,Electronics,Whole,3,569.92,1282.32,25,Central
+4234,2024-04-17,Home Appliances,Place,12,368.33,4419.96,0,West
+4471,2024-12-26,Beauty,Again,10,53.89,404.17,25,East
+9265,2024-09-13,Electronics,Position,6,899.26,4856.0,10,South
+8884,2024-12-06,Electronics,Letter,1,612.75,520.84,15,South
+6278,2025-02-12,Books,Although,6,888.38,3997.71,25,North
+7978,2023-10-01,Home Appliances,Also,9,846.3,6093.36,20,Central
+8416,2023-10-01,Clothing,Season,12,422.61,3803.49,25,West
+2075,2023-11-16,Beauty,Show,15,269.04,3430.26,15,North
+3964,2024-03-16,Books,Green,11,62.87,518.68,25,West
+5928,2024-10-02,Clothing,Work,3,803.05,2288.69,5,West
+8341,2023-05-17,Home Appliances,Wife,15,616.98,7403.76,20,East
+2501,2023-10-10,Books,Bar,7,137.28,912.91,5,South
+4696,2025-02-11,Home Appliances,Beyond,2,514.04,1028.08,0,Central
+1826,2024-01-31,Books,Bill,7,720.6,4035.36,20,West
+6180,2024-03-09,Clothing,Season,6,574.94,2587.23,25,South
+4423,2024-11-22,Home Appliances,Blue,13,124.12,1532.88,5,West
+2994,2024-06-09,Clothing,Floor,11,182.54,1807.15,10,Central
+1157,2024-01-05,Beauty,Let,5,262.39,1049.56,20,West
+5712,2024-08-30,Beauty,Worker,9,63.37,570.33,0,West
+2604,2024-05-19,Home Appliances,Most,9,68.41,461.77,25,Central
+2357,2023-05-21,Home Appliances,Mention,3,826.24,2478.72,0,West
+2665,2023-10-06,Beauty,Collection,9,111.28,1001.52,0,South
+5322,2023-10-07,Beauty,Example,9,448.7,3634.47,10,Central
+2452,2023-04-26,Electronics,Gas,11,849.64,7009.53,25,Central
+8922,2024-03-23,Clothing,None,15,879.26,10551.12,20,Central
+9599,2025-02-27,Beauty,Catch,9,691.11,5908.99,5,North
+2980,2023-03-09,Books,Much,7,239.9,1511.37,10,East
+3139,2025-02-05,Beauty,Investment,5,178.54,892.7,0,East
+1567,2023-09-11,Electronics,Interesting,9,109.13,933.06,5,South
+2539,2024-11-19,Beauty,Movie,12,584.35,6661.59,5,Central
+8489,2024-08-21,Beauty,Attention,8,666.3,4264.32,20,East
+7961,2023-03-07,Beauty,Truth,5,762.77,3432.47,10,North
+7840,2024-09-10,Electronics,Cover,1,568.87,426.65,25,North
+5377,2023-11-22,Electronics,Movie,10,372.21,3163.78,15,North
+3080,2024-05-02,Clothing,Option,8,152.32,1035.78,15,North
+8632,2023-12-14,Electronics,Help,3,876.74,2498.71,5,South
+2062,2023-05-23,Electronics,Network,2,632.17,1011.47,20,East
+4978,2024-09-15,Books,Several,10,472.11,4012.94,15,West
+8165,2023-11-05,Books,Owner,14,284.8,3389.12,15,Central
+9940,2024-05-28,Books,Myself,1,321.93,273.64,15,East
+9291,2024-05-16,Books,New,13,779.33,9624.73,5,Central
+5611,2024-05-02,Clothing,Enjoy,7,655.9,3443.48,25,Central
+4115,2025-02-28,Electronics,Personal,15,51.7,697.95,10,West
+1097,2025-02-12,Electronics,Our,6,861.39,4134.67,20,East
+9962,2023-09-05,Clothing,Stay,7,821.21,4311.35,25,East
+3791,2023-11-03,Electronics,Particular,10,407.42,3870.49,5,North
+4215,2023-03-15,Clothing,Letter,1,742.48,593.98,20,East
+8137,2023-07-09,Beauty,Capital,10,753.48,7158.06,5,North
+4759,2023-08-11,Electronics,Call,12,87.47,997.16,5,North
+8465,2025-02-15,Home Appliances,True,2,665.92,1065.47,20,South
+3463,2024-03-11,Beauty,Market,12,74.79,762.86,15,North
+5047,2024-03-30,Electronics,Now,5,758.38,3033.52,20,North
+7472,2024-03-04,Books,Event,1,558.18,418.63,25,East
+6878,2023-07-18,Books,Economy,4,201.22,764.64,5,West
+1197,2023-07-17,Home Appliances,Stand,6,110.3,529.44,20,South
+4133,2024-09-16,Home Appliances,Find,5,11.84,44.4,25,North
+7319,2023-09-03,Electronics,Trade,9,193.96,1658.36,5,North
+8881,2024-11-17,Home Appliances,Add,8,110.93,665.58,25,East
+6323,2024-09-13,Home Appliances,Trouble,11,35.47,370.66,5,South
+9307,2024-10-11,Electronics,Explain,9,837.79,7540.11,0,North
+5000,2023-07-03,Clothing,Cell,7,324.52,2271.64,0,North
+8989,2024-08-03,Electronics,Stock,2,986.58,1578.53,20,North
+3780,2024-08-01,Books,Would,2,311.1,559.98,10,South
+5067,2024-05-22,Beauty,Brother,13,187.75,2196.68,10,West
+5350,2024-04-14,Books,Dark,12,665.62,5990.58,25,East
+3180,2024-02-22,Books,Partner,7,903.28,4742.22,25,West
+6880,2023-11-18,Home Appliances,Write,5,560.95,2664.51,5,Central
+8252,2024-07-28,Beauty,Perform,11,545.28,5998.08,0,North
+4775,2025-01-29,Books,I,1,291.42,291.42,0,East
+4669,2025-02-09,Electronics,Change,13,500.5,5205.2,20,Central
+3055,2024-04-19,Home Appliances,Writer,7,552.18,3285.47,15,South
+3532,2024-04-14,Beauty,See,10,12.31,123.1,0,South
+2850,2024-07-13,Beauty,Consider,15,137.99,1966.36,5,Central
+2169,2023-11-08,Clothing,Middle,10,425.95,4259.5,0,North
+3751,2024-07-05,Books,Follow,4,840.82,3195.12,5,South
+6253,2025-02-11,Beauty,Because,13,918.21,11936.73,0,East
+9969,2024-02-08,Home Appliances,Trial,2,833.76,1417.39,15,North
+6273,2023-10-30,Home Appliances,Believe,3,489.44,1394.9,5,South
+6987,2023-10-25,Home Appliances,Whom,6,648.07,3110.74,20,North
+6025,2023-05-06,Beauty,Site,1,736.73,589.38,20,North
+5409,2023-05-12,Electronics,Give,2,976.06,1464.09,25,Central
+3629,2024-08-04,Clothing,Campaign,3,176.82,450.89,15,North
+1941,2024-10-05,Beauty,Different,5,915.85,4579.25,0,East
+5125,2024-05-24,Clothing,Special,12,953.44,10297.15,10,Central
+4455,2023-03-27,Electronics,Service,5,834.44,4172.2,0,West
+3411,2023-06-30,Home Appliances,First,11,571.99,5033.51,20,Central
+6862,2023-03-20,Books,Four,14,250.61,3333.11,5,Central
+8434,2023-09-29,Home Appliances,Home,14,526.44,7370.16,0,Central
+7435,2024-10-02,Electronics,Drug,14,41.58,553.01,5,South
+2109,2023-07-21,Electronics,Measure,2,728.63,1457.26,0,South
+2333,2025-01-14,Home Appliances,Father,10,156.2,1327.7,15,East
+8150,2023-11-12,Beauty,Financial,14,994.25,12527.55,10,South
+4888,2025-01-26,Electronics,Program,6,987.38,4739.42,20,Central
+2723,2023-06-09,Clothing,Option,8,869.67,5913.76,15,Central
+8259,2024-04-10,Clothing,Give,9,441.04,3770.89,5,South
+9136,2024-10-31,Clothing,Get,11,707.43,7392.64,5,Central
+6700,2023-10-31,Home Appliances,Up,10,589.48,5010.58,15,West
+1110,2024-03-07,Home Appliances,Design,10,193.09,1930.9,0,East
+1421,2023-08-22,Clothing,Agency,3,230.28,690.84,0,East
+5533,2024-06-04,Clothing,Past,9,633.45,4275.79,25,West
+2978,2024-11-05,Home Appliances,Oil,1,874.56,787.1,10,Central
+9842,2024-05-23,Home Appliances,Her,3,932.82,2798.46,0,West
+2637,2023-11-11,Electronics,Senior,11,43.33,381.3,20,Central
+5657,2025-01-07,Beauty,Husband,12,583.05,6646.77,5,West
+3840,2024-12-16,Books,Choose,7,613.68,3651.4,15,North
+8376,2023-05-08,Books,Though,11,328.73,3254.43,10,West
+7494,2024-07-30,Books,Method,9,973.93,8327.1,5,Central
+3239,2024-07-31,Home Appliances,Notice,11,967.02,10637.22,0,West
+4766,2023-07-12,Home Appliances,Several,15,77.38,1160.7,0,South
+6863,2023-07-11,Clothing,Ability,10,185.84,1672.56,10,East
+3657,2024-12-21,Clothing,Six,13,585.97,7236.73,5,North
+6966,2024-12-31,Electronics,News,7,179.39,1004.58,20,Central
+9004,2023-11-01,Home Appliances,Kitchen,11,469.62,4907.53,5,North
+3251,2024-09-07,Books,Officer,12,993.43,10132.99,15,North
+8945,2023-09-11,Beauty,Must,15,452.65,6110.77,10,East
+9080,2024-03-14,Home Appliances,Why,15,731.15,8225.44,25,East
+5485,2023-09-09,Home Appliances,However,11,843.55,7423.24,20,East
+2412,2024-09-13,Beauty,Shoulder,6,60.27,343.54,5,East
+4201,2024-08-21,Clothing,Green,13,841.32,10390.3,5,South
+1540,2024-09-18,Clothing,Suggest,8,548.92,3293.52,25,North
+3949,2023-07-04,Home Appliances,Prepare,15,434.18,4884.52,25,North
+6961,2024-11-26,Beauty,Student,2,249.92,474.85,5,South
+9479,2024-12-24,Home Appliances,With,3,377.54,906.1,20,Central
+8941,2024-12-19,Home Appliances,Happen,5,351.64,1758.2,0,South
+6558,2024-08-01,Home Appliances,Far,8,385.74,2931.62,5,East
+6018,2024-09-26,Electronics,Social,14,658.43,7374.42,20,Central
+7971,2024-10-25,Home Appliances,Game,4,318.1,954.3,25,East
+1955,2023-06-03,Beauty,Bar,9,36.87,331.83,0,Central
+5677,2023-09-16,Beauty,Cover,4,684.42,2737.68,0,West
+8713,2024-08-10,Home Appliances,Someone,11,916.37,10080.07,0,West
+9730,2025-02-26,Clothing,Speech,8,480.08,3456.58,10,West
+5822,2023-08-28,Electronics,Father,12,97.45,993.99,15,South
+1443,2024-10-16,Electronics,Staff,13,652.37,7632.73,10,North
+6238,2023-10-05,Clothing,Want,8,436.21,3140.71,10,Central
+6770,2023-05-30,Clothing,Public,8,580.78,4413.93,5,South
+2969,2024-09-19,Beauty,Start,10,440.84,3306.3,25,East
+3075,2024-09-09,Beauty,Only,9,501.47,4287.57,5,Central
+4668,2023-06-21,Clothing,Could,11,630.44,5894.61,15,Central
+4128,2023-06-22,Books,Discuss,1,916.2,870.39,5,Central
+8008,2024-02-01,Books,Dog,4,483.75,1548.0,20,West
+8545,2024-08-24,Home Appliances,Free,8,639.57,4349.08,15,West
+5642,2025-02-16,Home Appliances,Quality,4,56.3,202.68,10,South
+8203,2024-12-12,Beauty,Million,6,263.09,1341.76,15,East
+5908,2023-05-26,Home Appliances,Name,10,596.66,4474.95,25,Central
+4480,2023-08-27,Books,Tonight,4,745.58,2833.2,5,Central
+1045,2024-12-18,Electronics,Group,5,605.05,3025.25,0,West
+7966,2023-08-17,Books,Town,5,795.35,3181.4,20,South
+2448,2024-10-08,Beauty,Degree,8,222.56,1424.38,20,Central
+4722,2024-05-12,Books,Health,2,613.51,1227.02,0,East
+8541,2023-04-12,Clothing,Film,3,687.47,2062.41,0,South
+2311,2024-02-13,Home Appliances,Both,9,58.15,392.51,25,North
+1710,2024-01-08,Books,Use,14,878.62,12300.68,0,West
+2963,2023-04-15,Beauty,Fund,15,446.4,6361.2,5,North
+7094,2023-05-04,Beauty,Support,10,479.56,4555.82,5,South
+1954,2023-11-16,Clothing,Turn,8,30.41,231.12,5,North
+1992,2024-09-02,Clothing,May,3,251.01,602.42,20,East
+8638,2023-09-23,Electronics,Respond,9,896.15,6855.55,15,Central
+4254,2024-07-25,Clothing,Game,13,759.97,8397.67,15,West
+2677,2023-04-09,Clothing,Source,7,420.58,2944.06,0,East
+4428,2024-04-20,Clothing,Probably,15,842.78,9481.27,25,Central
+7501,2025-01-11,Home Appliances,Management,9,651.29,5861.61,0,East
+3295,2024-01-03,Electronics,Positive,10,467.24,3971.54,15,Central
+1102,2023-06-12,Clothing,Loss,3,663.25,1790.78,10,Central
+9947,2023-05-05,Clothing,Now,12,871.77,8892.05,15,South
+7492,2023-12-04,Home Appliances,Game,3,257.09,655.58,15,East
+4053,2024-10-23,Beauty,Political,9,291.96,2364.88,10,North
+1056,2025-02-17,Electronics,Successful,14,318.57,4236.98,5,South
+8960,2024-05-01,Books,Thousand,1,38.81,38.81,0,West
+4007,2023-07-13,Clothing,Player,4,458.37,1375.11,25,West
+6804,2023-12-30,Home Appliances,Officer,14,410.8,4888.52,15,West
+5426,2024-05-27,Beauty,Center,5,657.2,3286.0,0,West
+6303,2024-07-02,Home Appliances,Understand,3,435.89,1242.29,5,North
+6122,2023-07-25,Electronics,Respond,1,403.03,342.58,15,North
+1044,2023-05-23,Home Appliances,Music,7,962.2,6061.86,10,North
+2267,2025-02-06,Clothing,Role,10,960.08,8640.72,10,West
+3810,2024-11-01,Home Appliances,Establish,3,746.44,2239.32,0,North
+7187,2024-01-28,Electronics,Within,7,708.3,3966.48,20,West
+2848,2024-01-14,Home Appliances,Level,14,146.72,1745.97,15,East
+1952,2023-04-17,Electronics,Sense,12,163.78,1867.09,5,North
+9042,2024-01-21,Beauty,Important,15,611.34,7336.08,20,East
+7764,2023-12-20,Electronics,Identify,15,690.38,9320.13,10,West
+1850,2024-09-12,Beauty,Sign,5,636.16,2544.64,20,South
+4248,2024-12-31,Electronics,Artist,12,930.7,10609.98,5,Central
+1628,2023-04-04,Beauty,Land,7,301.15,1581.04,25,Central
+8371,2025-02-11,Books,Trial,15,274.15,3084.19,25,East
+5645,2024-11-11,Beauty,Situation,6,602.56,3073.06,15,North
+2329,2024-11-09,Electronics,Compare,8,878.44,6324.77,10,North
+9863,2023-11-22,Clothing,To,9,252.85,1820.52,20,West
+9340,2023-07-25,Electronics,Understand,11,403.88,4220.55,5,East
+6247,2023-07-11,Books,Public,3,166.48,399.55,20,South
+4063,2024-10-29,Electronics,Evening,5,588.38,2206.43,25,North
+2675,2024-07-31,Home Appliances,Near,7,348.31,1950.54,20,Central
+7460,2024-10-13,Beauty,Reveal,7,41.36,246.09,15,South
+1689,2024-01-21,Home Appliances,What,6,474.69,2136.11,25,North
+1077,2024-08-27,Beauty,Condition,4,194.37,660.86,15,North
+4279,2023-10-12,Home Appliances,Figure,12,225.28,2703.36,0,West
+9445,2023-07-17,Beauty,Dark,3,600.16,1440.38,20,South
+1817,2024-06-12,Home Appliances,War,11,101.7,1062.77,5,North
+4692,2024-03-14,Electronics,Door,5,930.55,3722.2,20,East
+4131,2023-03-16,Clothing,Dinner,2,190.24,342.43,10,East
+8518,2024-12-11,Clothing,Number,5,654.64,3273.2,0,North
+5896,2023-05-19,Beauty,Community,15,710.01,8520.12,20,South
+1296,2023-07-03,Electronics,Experience,9,428.54,3278.33,15,West
+9512,2023-10-22,Books,Need,5,533.54,2267.55,15,Central
+8115,2024-07-22,Electronics,Class,8,542.86,3908.59,10,South
+1099,2024-05-22,Electronics,Parent,13,32.1,354.71,15,West
+9485,2024-11-14,Home Appliances,Mother,11,957.9,10536.9,0,East
+4363,2024-03-08,Home Appliances,Instead,1,235.18,176.38,25,South
+9518,2023-03-30,Electronics,Century,2,852.56,1278.84,25,South
+9727,2024-01-05,Clothing,Want,10,243.26,2432.6,0,South
+2802,2023-07-17,Clothing,On,6,439.78,2374.81,10,Central
+6242,2024-06-22,Home Appliances,Career,9,30.72,221.18,20,South
+2100,2023-12-20,Clothing,Phone,9,628.23,5654.07,0,North
+9919,2023-07-22,Electronics,Still,13,17.15,189.51,15,North
+1685,2024-10-12,Home Appliances,Sell,6,479.84,2735.09,5,Central
+6872,2024-11-30,Home Appliances,Debate,13,501.61,5542.79,15,South
+2756,2024-12-25,Books,South,5,190.36,856.62,10,West
+7719,2024-06-21,Beauty,Less,7,398.84,2233.5,20,Central
+6222,2024-04-16,Home Appliances,Consider,2,759.2,1366.56,10,Central
+1189,2023-03-17,Clothing,Series,11,774.74,8096.03,5,Central
+6776,2024-10-07,Beauty,Specific,13,177.51,1961.49,15,North
+8423,2023-05-26,Electronics,Condition,9,107.76,921.35,5,East
+1251,2024-03-10,Home Appliances,Religious,8,983.47,6687.6,15,West
+6418,2024-10-26,Electronics,Especially,5,459.97,2069.87,10,South
+5970,2024-12-31,Books,Build,12,944.87,9637.67,15,East
+3978,2024-03-02,Beauty,Second,9,861.83,5817.35,25,Central
+7241,2023-12-07,Electronics,Story,6,915.15,4118.17,25,Central
+9429,2023-04-12,Clothing,Campaign,9,512.23,4149.06,10,North
+4289,2023-08-23,Home Appliances,Various,12,536.25,5791.5,10,East
+6149,2023-12-26,Clothing,American,7,954.9,5347.44,20,Central
+2728,2024-09-08,Home Appliances,Like,7,515.1,3425.42,5,East
+6426,2023-12-19,Electronics,Grow,7,735.81,5150.67,0,Central
+8236,2023-06-23,Home Appliances,Always,6,643.38,3281.24,15,Central
+7148,2024-07-26,Books,Enter,1,840.53,672.42,20,West
+8308,2023-06-16,Home Appliances,Computer,11,291.08,3041.79,5,North
+2298,2025-01-11,Beauty,Upon,6,630.28,3025.34,20,South
+1447,2024-05-22,Beauty,Meet,5,226.86,1077.59,5,North
+9371,2024-11-08,Home Appliances,Film,2,826.58,1322.53,20,South
+3719,2023-12-11,Books,Good,8,863.58,6908.64,0,North
+5113,2024-03-24,Clothing,Recent,15,633.0,9020.25,5,South
+6107,2024-01-10,Clothing,Only,9,25.73,185.26,20,North
+3700,2024-12-30,Books,Director,3,967.9,2468.14,15,West
+2777,2023-06-02,Electronics,None,6,756.85,3859.94,15,South
+8369,2024-02-17,Beauty,Send,7,857.71,6003.97,0,East
+7363,2024-07-09,Electronics,Power,12,13.04,125.18,20,Central
+9711,2024-05-28,Electronics,Travel,2,934.06,1868.12,0,Central
+7030,2023-08-25,Electronics,Particularly,1,605.23,453.92,25,East
+8999,2024-01-30,Books,Past,9,749.01,6066.98,10,Central
+8936,2023-05-05,Home Appliances,Present,6,407.6,1956.48,20,Central
+6474,2023-12-03,Books,Floor,1,770.17,577.63,25,Central
+8642,2024-08-02,Beauty,Apply,2,731.11,1169.78,20,East
+5487,2024-06-30,Books,Music,10,761.39,6471.81,15,North
+5987,2024-12-19,Books,Design,9,502.63,3845.12,15,Central
+6081,2024-07-29,Books,Himself,12,725.06,8265.68,5,West
+6526,2024-11-06,Clothing,Require,9,484.53,3924.69,10,East
+7976,2024-10-20,Home Appliances,Really,5,298.31,1267.82,15,West
+3233,2023-04-21,Electronics,Thus,3,991.11,2527.33,15,Central
+9976,2025-01-11,Electronics,Population,2,413.44,785.54,5,Central
+3396,2024-08-23,Beauty,Instead,10,29.75,223.12,25,Central
+1651,2023-07-19,Books,Place,14,578.57,6884.98,15,East
+6728,2024-01-02,Home Appliances,Car,4,732.53,2344.1,20,South
+8309,2023-08-08,Beauty,None,2,868.77,1563.79,10,Central
+3491,2023-07-12,Home Appliances,Until,11,334.99,2763.67,25,North
+4756,2024-01-27,Electronics,Grow,11,564.11,4653.91,25,East
+2573,2024-10-26,Electronics,Human,12,557.5,5686.5,15,West
+3686,2024-11-11,Home Appliances,Television,13,144.51,1408.97,25,South
+1058,2023-03-14,Clothing,Focus,12,53.49,481.41,25,Central
+9310,2023-11-27,Beauty,Prepare,15,700.0,9450.0,10,Central
+4835,2023-06-06,Home Appliances,Herself,12,447.17,4829.44,10,South
+8386,2023-03-06,Clothing,Better,3,367.74,937.74,15,North
+7690,2023-11-09,Beauty,Look,6,974.27,4384.22,25,West
+7735,2024-11-25,Beauty,Back,3,754.91,1925.02,15,South
+6822,2023-09-03,Beauty,Order,13,746.04,9698.52,0,East
+8614,2024-05-08,Books,Record,8,778.45,4982.08,20,East
+4853,2024-03-05,Home Appliances,Be,11,671.58,7387.38,0,North
+1227,2023-07-27,Electronics,Employee,1,260.92,208.74,20,Central
+6021,2025-02-07,Beauty,Reach,1,276.31,248.68,10,Central
+4738,2024-11-30,Clothing,And,5,972.1,4374.45,10,North
+5779,2023-07-21,Clothing,Step,2,145.49,261.88,10,North
+4627,2024-04-14,Home Appliances,Leader,4,304.72,1096.99,10,West
+5673,2024-02-04,Books,Position,12,905.24,10319.74,5,Central
+4752,2023-08-25,Books,Education,11,628.94,6572.42,5,Central
+1095,2023-05-15,Beauty,Past,11,133.97,1473.67,0,South
+9139,2024-03-17,Electronics,Stage,14,292.63,3277.46,20,North
+3997,2024-07-03,Home Appliances,Simply,14,770.2,10243.66,5,East
+6864,2025-02-10,Books,Several,2,298.2,536.76,10,Central
+3424,2025-02-07,Electronics,Similar,2,665.24,1130.91,15,North
+3365,2024-04-11,Home Appliances,Treat,5,834.33,3754.49,10,East
+4460,2024-03-26,Clothing,Red,14,313.52,3291.96,25,West
+4144,2024-05-08,Electronics,Town,15,117.45,1585.58,10,Central
+2291,2023-04-11,Beauty,Include,5,268.92,1142.91,15,East
+1078,2023-05-19,Books,Item,11,594.11,5228.17,20,North
+2398,2024-04-22,Books,Address,13,140.8,1555.84,15,Central
+9795,2023-12-11,Home Appliances,Appear,2,668.28,1269.73,5,West
+5845,2024-01-30,Clothing,Doctor,11,98.14,863.63,20,Central
+6777,2024-01-06,Clothing,Bag,12,425.26,4592.81,10,West
+8797,2025-01-07,Beauty,Stop,8,677.56,4878.43,10,West
+7747,2024-11-21,Home Appliances,Rock,7,153.36,858.82,20,East
+3464,2023-09-02,Home Appliances,Behind,15,715.88,9664.38,10,South
+6415,2023-03-24,Beauty,Health,10,42.81,342.48,20,West
+7386,2024-12-06,Home Appliances,Anything,4,454.14,1725.73,5,Central
+9221,2024-11-03,Books,Star,15,400.34,5704.84,5,West
+1649,2023-06-04,Books,Five,4,123.41,370.23,25,East
+5138,2025-01-25,Beauty,Involve,4,551.89,1655.67,25,West
+1071,2024-02-10,Clothing,Research,2,201.09,321.74,20,Central
+1759,2025-01-23,Electronics,Sign,14,683.31,7174.76,25,West
+6032,2023-12-19,Home Appliances,Produce,8,889.02,5689.73,20,Central
+8332,2025-02-05,Electronics,Find,7,593.16,3736.91,10,West
+9642,2023-05-24,Electronics,Site,6,437.16,2491.81,5,West
+7294,2023-11-30,Clothing,Among,7,176.75,989.8,20,North
+7998,2024-08-05,Home Appliances,Though,9,313.69,2682.05,5,East
+6767,2024-05-27,Home Appliances,Responsibility,7,199.95,1049.74,25,South
+2915,2024-10-13,Beauty,Finally,12,193.76,2208.86,5,North
+1588,2024-01-08,Books,His,6,886.85,3990.83,25,Central
+4432,2025-01-31,Books,Discussion,11,119.18,1179.88,10,North
+5390,2024-09-19,Books,Others,7,152.12,1064.84,0,East
+4487,2024-11-30,Books,Why,5,762.53,3050.12,20,South
+2623,2023-06-03,Clothing,Bad,9,51.21,414.8,10,North
+7090,2024-11-02,Books,Floor,12,771.28,6941.52,25,South
+8053,2023-05-03,Beauty,Include,3,298.78,851.52,5,East
+4451,2023-12-08,Books,Hold,15,997.98,13472.73,10,Central
+9906,2025-01-29,Beauty,Deal,7,426.19,2685.0,10,North
+6849,2023-08-16,Clothing,Maintain,7,708.28,4957.96,0,Central
+7301,2024-04-21,Clothing,President,9,437.63,3150.94,20,South
+9237,2025-01-21,Books,Almost,11,326.69,3593.59,0,East
+2869,2024-08-16,Beauty,Message,14,582.64,7341.26,10,Central
+6820,2024-01-14,Books,Nor,7,675.35,4018.33,15,Central
+1427,2024-01-20,Clothing,Whatever,10,502.74,4021.92,20,South
+7926,2024-06-08,Beauty,Girl,8,934.04,7472.32,0,South
+3129,2023-05-20,Home Appliances,Speech,11,178.6,1669.91,15,East
+8968,2024-08-27,Beauty,Painting,7,979.63,6171.67,10,East
+3030,2023-07-14,Books,But,11,773.23,7229.7,15,North
+2342,2024-06-25,Books,Service,10,426.38,3837.42,10,East
+8841,2024-05-09,Clothing,Eight,10,742.9,7057.55,5,East
+5914,2023-09-04,Clothing,Community,14,338.59,3792.21,20,North
+1042,2024-11-20,Home Appliances,Deep,9,203.44,1647.86,10,West
+6748,2024-08-20,Home Appliances,Name,15,127.47,1720.85,10,Central
+1985,2023-04-05,Clothing,Attack,10,829.44,7879.68,5,Central
+2801,2023-12-16,Beauty,Actually,6,143.39,688.27,20,East
+7534,2023-04-06,Electronics,Daughter,2,613.29,1103.92,10,East
+8269,2024-11-06,Books,Expert,1,638.3,542.55,15,South
+8890,2023-03-29,Beauty,Free,5,103.61,492.15,5,North
+1582,2025-02-07,Beauty,Begin,9,141.61,1210.77,5,North
+3841,2024-01-29,Clothing,Campaign,8,764.77,4588.62,25,Central
+2274,2024-05-31,Home Appliances,Prove,11,908.06,9988.66,0,East
+6934,2023-03-29,Clothing,Together,11,353.35,3109.48,20,West
+3472,2024-09-24,Books,Treat,10,468.22,3745.76,20,West
+5020,2024-05-15,Beauty,Picture,15,578.21,6504.86,25,East
+8606,2023-04-26,Electronics,World,3,150.9,384.8,15,Central
+4441,2023-12-21,Books,Heart,8,939.47,6388.4,15,Central
+2633,2025-01-30,Clothing,Full,15,644.88,9189.54,5,Central
+1964,2025-02-04,Books,Indeed,2,859.29,1718.58,0,East
+9232,2023-08-31,Books,Old,11,765.09,7995.19,5,Central
+9464,2023-04-25,Clothing,Again,2,149.45,298.9,0,West
+5613,2023-06-12,Books,Table,11,911.56,7520.37,25,East
+8714,2025-02-24,Beauty,Prevent,3,267.58,722.47,10,West
+5309,2024-01-22,Home Appliances,Instead,15,414.34,5282.83,15,South
+1853,2024-10-10,Beauty,Him,10,439.75,3518.0,20,North
+4392,2024-08-27,Books,Modern,14,756.57,9532.78,10,South
+1199,2024-04-06,Books,Movement,11,653.1,5388.08,25,East
+2643,2024-01-12,Home Appliances,Give,6,206.91,993.17,20,East
+7578,2024-04-19,Beauty,Somebody,9,566.34,4077.65,20,Central
+3647,2023-09-17,Beauty,Summer,13,669.03,7392.78,15,North
+8909,2024-12-25,Clothing,Must,14,27.17,285.28,25,East
+4249,2024-05-01,Home Appliances,Consider,7,303.19,1910.1,10,North
+9979,2024-04-18,Beauty,Reflect,6,930.56,5304.19,5,North
+8175,2024-07-04,Books,Material,9,94.39,722.08,15,South
+4367,2023-04-13,Beauty,Blue,15,261.36,3332.34,15,Central
+4855,2024-01-03,Books,Analysis,14,35.25,394.8,20,West
+5154,2023-07-06,Electronics,Sister,8,155.96,1122.91,10,Central
+4015,2023-08-15,Beauty,Apply,7,210.58,1252.95,15,North
+1700,2024-10-26,Home Appliances,Beyond,12,191.15,2179.11,5,North
+3293,2023-03-20,Electronics,Create,10,381.61,3625.3,5,West
+5711,2023-06-18,Beauty,Language,4,280.49,1065.86,5,South
+8789,2024-03-15,Home Appliances,Deal,12,69.78,669.89,20,South
+7218,2024-04-30,Home Appliances,Between,10,792.7,7927.0,0,Central
+5698,2023-05-24,Electronics,Year,13,393.39,5114.07,0,West
+8015,2023-04-02,Electronics,Herself,8,311.78,2369.53,5,West
+4076,2023-07-06,Clothing,Career,5,230.38,863.93,25,South
+7458,2024-12-31,Home Appliances,Sit,8,705.34,4232.04,25,West
+2842,2024-01-20,Electronics,Part,9,504.72,3861.11,15,North
+9346,2024-05-25,Home Appliances,Upon,5,691.66,2939.55,15,North
+5878,2024-02-15,Electronics,High,13,462.43,5109.85,15,South
+5819,2023-09-20,Electronics,Travel,5,847.52,4025.72,5,Central
+3968,2024-09-28,Electronics,Like,6,859.8,4900.86,5,South
